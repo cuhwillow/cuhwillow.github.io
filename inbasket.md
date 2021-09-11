@@ -37,7 +37,7 @@ Here are the medication related message type and definitions as set in Epic Wide
 - [ ] Add these components to **Epic-wide settings** 
 
 ```danger
-BE CAREFUL WHEN EDITING EPIC-WIDE SETTINGS!!! - This is maintained in **Production**
+:bomb: :boom: BE CAREFUL WHEN EDITING EPIC-WIDE SETTINGS!!! - This is maintained in **Production** :boom: :bomb:
 ```
 ```mermaid
 graph LR
