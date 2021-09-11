@@ -9,9 +9,9 @@ repo_url: "https://cuhwillow.github.io"
 # folders sort
 readme_index:
   with_frontmatter: true
-script: |
-  alert("it");
-  alert("works!");
+#[PL:this will give you a pop up]script: |
+#[PL:]  alert("it");
+#[PL:]  alert("works!");
 
 plugins:
   - jemoji
