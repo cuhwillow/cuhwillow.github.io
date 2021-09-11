@@ -30,3 +30,11 @@ Here are the medication related message type and definitions as set in Epic Wide
 ```danger
 Custom message types are help in a category list - E0W 30
 ```
+```mermaid
+graph LR
+  A(HCD Prescribed) -- In basket message --> B((Blueteq Check))
+  A --> C(Blueteq Not Required)
+  B --> D[Blueteq is Required]
+```
+
+
