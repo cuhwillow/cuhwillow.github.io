@@ -13,4 +13,8 @@ Here are the medication related message type and definitions as set in Epic Wide
 | MESSAGE TYPE | MESSAGE TYPE DEFINITION |
 | --- | --- |
 | CUH Rx Non Form [40822000] | NON-FORMULARY ALERT [408220001] |
-| 
+| Medication Messages [220] | MEDICATION MESSAGES [220] |
+| MR Allergies Interaction Alert [510] | INTERACTION LIST MESSAGE [3410] |
+| Pharmacist Review [107000002] | CUH POA PHARMACIST REVIEW [1078502] |
+| RX Patient Stored Medication [1287] | RX PATIENT STORE MEDICATION [10287] |
+| SC insulin rebuild [40822002] | CUH RX INSULIN REBUILD [10287] |
