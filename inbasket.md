@@ -21,6 +21,7 @@ Here are the medication related message type and definitions as set in Epic Wide
 | Pharmacist Review [107000002] | CUH POA PHARMACIST REVIEW [1078502] |
 | RX Patient Stored Medication [1287] | RX PATIENT STORE MEDICATION [10287] |
 | SC insulin rebuild [40822002] | CUH RX INSULIN REBUILD [10287] |
+| Vinorelbine Oral Chemo [115000001] | CUH ONC IP VINORELBINE [10038] |
 
 -----
 
