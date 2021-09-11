@@ -9,11 +9,11 @@ sort: 1
 
 ### Files involved:
 
--[ ] ERX
--[ ] PRD
--[ ] NDC
--[ ] BAL
--[ ] NDG
+- [ ] ERX
+- [ ] PRD
+- [ ] NDC
+- [ ] BAL
+- [ ] NDG
 
 ```
 
