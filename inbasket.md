@@ -2,9 +2,12 @@
 id: HsOwyzZrqDMBt6FGMfqDO
 title: Med_in_basket
 desc: ''
+sort: 2
 updated: 1631368572519
 created: 1631368306139
 ---
+
+## System Wide Settings
 
 ```note
 Here are the medication related message type and definitions as set in Epic Wide Settings
@@ -18,3 +21,11 @@ Here are the medication related message type and definitions as set in Epic Wide
 | Pharmacist Review [107000002] | CUH POA PHARMACIST REVIEW [1078502] |
 | RX Patient Stored Medication [1287] | RX PATIENT STORE MEDICATION [10287] |
 | SC insulin rebuild [40822002] | CUH RX INSULIN REBUILD [10287] |
+
+-----
+
+### Build a new custom In Basket
+
+```danger
+Custom message types are help in a category list - E0W 30
+```
