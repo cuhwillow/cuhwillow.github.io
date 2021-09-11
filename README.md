@@ -1,3 +1,3 @@
 # CUH Willow Team
-![CUH_Willow](https://cuhwillow.github.io/images/willow.png
+![CUH_Willow](https://github.com/cuhwillow/cuhwillow.github.io/blob/images/willow.png?raw=true)
 
