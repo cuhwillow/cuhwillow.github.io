@@ -27,8 +27,17 @@ Here are the medication related message type and definitions as set in Epic Wide
 
 ### Building a new custom In Basket
 
+- [ ] Create a new category item in E0W 30 for the message type you require
+>Name this as required
+
+- [ ] Ideally copy an existing message definition template (see examples above)
+>Make appropriate changes e.g. include new **message type** and naming
+>Give this copied file a record ID (0.1) with a _408_ prefix
+
+- [ ] Add these components to **Epic-wide settings** 
+
 ```danger
-Custom message types are help in a category list - E0W 30
+BE CAREFUL WHEN EDITING EPIC-WIDE SETTINGS!!! - This is maintained in **Production**
 ```
 ```mermaid
 graph LR
