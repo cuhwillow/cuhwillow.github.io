@@ -5,7 +5,7 @@ sort: 1
 # OVERVIEW
 
 
-```NEW DRUG REQUEST
+```note
 
 ### Files involved:
 
@@ -15,11 +15,6 @@ sort: 1
 - [ ] BAL
 - [ ] NDG
 
-Markdown is supported, Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines
-
-`inline code`
-
-[`inline code inside link`](./)
 ```
 
 ```note
