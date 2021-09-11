@@ -9,6 +9,10 @@ repo_url: "https://cuhwillow.github.io"
 # folders sort
 readme_index:
   with_frontmatter: true
+script: |
+  alert("it");
+  alert("works!");
+
 plugins:
   - jemoji
   - jekyll-avatar
