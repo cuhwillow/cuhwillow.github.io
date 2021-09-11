@@ -1,0 +1,23 @@
+title: CUH Willow
+description: This is an amazing library of stuff
+remote_theme: rundocs/jekyll-rtd-theme
+
+# Theme settings:
+site_author: CUH Willow
+url: "https://cuhwillow.github.io/"
+repo_url: "https://cuhwillow.github.io"
+# folders sort
+readme_index:
+  with_frontmatter: true
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
