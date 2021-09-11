@@ -24,7 +24,7 @@ Here are the medication related message type and definitions as set in Epic Wide
 
 -----
 
-### Build a new custom In Basket
+### Building a new custom In Basket
 
 ```danger
 Custom message types are help in a category list - E0W 30
