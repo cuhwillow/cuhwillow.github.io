@@ -12,7 +12,7 @@ created:
 ```note
 PARENT LIST: Clinical Pharmacy Monitoring Lists 2021 - 408130421
 ```
-<center>
+
 ```mermaid
 graph TD
 
@@ -25,4 +25,4 @@ F --> G(Enter List ID)
 G --> H(Enter Users EMP)
 H --> I(Commit & Leave)
 ```
-</center>
+
