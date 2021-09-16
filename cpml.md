@@ -17,12 +17,12 @@ PARENT LIST: Clinical Pharmacy Monitoring Lists 2021 - 408130421
 grahph TD
 
 A(Clinical Administration) --> B(Mangement Options)
-B(Management Options) --> C(Utilities)
-C(Utilities) --> D(Clinical Utilities)
-D(Clinical Utilities) --> E(Patient List/Subset Utilities)
-E(Patient List/Subset Utilities) --> F(Assign a My List Template)
-F(Assign a My List Template) --> G(Enter List ID)
-G(Enter List ID) --> H(Enter Users EMP)
-H(Enter Users EMP) --> I(Commit & Leave)
+B --> C(Utilities)
+C --> D(Clinical Utilities)
+D --> E(Patient List/Subset Utilities)
+E --> F(Assign a My List Template)
+F --> G(Enter List ID)
+G --> H(Enter Users EMP)
+H --> I(Commit & Leave)
 ```
 
