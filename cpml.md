@@ -7,7 +7,9 @@ updated:
 created: 
 ---
 
-<center> ## CLINICAL PHARMACY MONITORING LISTS </center>
+## CLINICAL PHARMACY MONITORING LISTS
+1
+___
 
 ```note
 PARENT LIST: Clinical Pharmacy Monitoring Lists 2021 - 408130421
