@@ -14,7 +14,7 @@ PARENT LIST: Clinical Pharmacy Monitoring Lists 2021 - 408130421
 ```
 
 ```mermaid
-grahph TD
+graph TD
 
 A(Clinical Administration) --> B(Mangement Options)
 B --> C(Utilities)
