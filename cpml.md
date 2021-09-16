@@ -14,16 +14,15 @@ PARENT LIST: Clinical Pharmacy Monitoring Lists 2021 - 408130421
 ```
 
 ```mermaid
-stateDiagram-v2
-[*] --> Clinical Administration
-Clinical Administration --> Mangement Options
-Management Options --> Utilities
-Utilities --> Clinical Utilities
-Clinical Utilities --> Patient List/Subset Utilities
-Patient List/Subset Utilities --> Assign a My List Template
-Assign a My List Template --> Enter List ID
-Enter List ID --> Enter Users EMP
-Enter Users EMP --> Commit & Leave
-Commit & Leave --> [*]
+grahph TD
+
+A(Clinical Administration) --> B(Mangement Options)
+B(Management Options) --> C(Utilities)
+C(Utilities) --> D(Clinical Utilities)
+D(Clinical Utilities) --> E(Patient List/Subset Utilities)
+E(Patient List/Subset Utilities) --> F(Assign a My List Template)
+F(Assign a My List Template) --> G(Enter List ID)
+G(Enter List ID) --> H(Enter Users EMP)
+H(Enter Users EMP) --> I(Commit & Leave)
 ```
 
